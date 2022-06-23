@@ -5,7 +5,7 @@ const Estilo = StyleSheet.create({
         width:"100%",
         height: "100%",
         bottom: 0,
-        backgroundColor:"#ffffff" ,
+        backgroundColor:"#E1E5EA" ,
         alignItems:"center" ,
         borderTopLeftRadius:30,
         borderTopRightRadius:30,

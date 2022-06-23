@@ -9,10 +9,6 @@ export default function Title (){
         <Text style={Estilo.textTitle}>
             ONEBITHEALT
         </Text>
-        <Text style={Estilo.textTitle2}>
-            ONEBITHEALT
-        </Text>
-
     </View>
     )
 }
