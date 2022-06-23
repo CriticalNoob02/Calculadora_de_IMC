@@ -47,7 +47,7 @@ const Estilo = StyleSheet.create({
     },
     errorMessage:{
         fontSize: 12,
-        fontWeight: 20,
+        fontWeight: "bold",
         color: "red",
         paddingLeft: 20,
     }
